@@ -1,2 +1,1 @@
-# spacetime-nlw
 # spacetime
